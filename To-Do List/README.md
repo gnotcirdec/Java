@@ -1,0 +1,1 @@
+In this	assignment you will create a ToDo app that will allow a single user to create a list of tasks. Tasks can be marked as completed, or not completed. Tasks can also be deleted. Optionally, you can implement an edit feature that allows a user to modify the text of a task.
